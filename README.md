@@ -4,7 +4,7 @@
 
 🌱 I am a Systems Engineering student passionate about technology and software development.
 
-<img align="right" alt="Coding" width="200" src="https://github.com/JuanesVM8/Emojis/blob/main/assets/dev_animado.gif?raw=true">
+<img align="right" alt="Coding" width="300" src="https://github.com/JuanesVM8/Emojis/blob/main/assets/dev_animado.gif?raw=true">
 
 ---
 
