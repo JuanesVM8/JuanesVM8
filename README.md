@@ -36,7 +36,7 @@
 
 ### 🔐 Encriptador
 - A tool to encrypt and decrypt messages.
-- **Languages:** javascript
+- **Languages:** JavaScript
 - [🔗 View Project](https://github.com/JuanesVM8/encriptador)
 
 ### 🚀 Misión TIC
@@ -54,7 +54,7 @@
 ## 📊 GitHub Stats
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JuanesVM8&show_icons=true&theme=dark&locale=en&layout=compact" alt="JuanesVM8" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JuanesVM8&show_icons=true&theme=dark&locale=en&layout=compact&hide=jupyter%20notebook" alt="JuanesVM8" />
 </p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=JuanesVM8&show_icons=true&theme=dark&locale=en" alt="JuanesVM8" /></p>
@@ -63,7 +63,7 @@
 
 ---
 
-## 📫 Connect with me:
+## 📫 Contact Me
 <p align="left">
   <a href="https://discord.com/users/TU_ID_DISCORD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
   <a href="https://wa.me/TU_NUMERO_WHATSAPP" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="30" width="40" /></a>
