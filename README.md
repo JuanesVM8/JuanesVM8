@@ -42,7 +42,7 @@
 
 ### 🚀 Misión TIC
 - A repository with exercises and projects from the Misión TIC program.
-- **Tech:** Python, Java, MySQL
+- **Tech:** Python, Java, Javascript
 - [🔗 View Project](https://github.com/JuanesVM8/mision-tic)
 
 ### 🐍 Python Projects
