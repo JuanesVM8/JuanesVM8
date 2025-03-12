@@ -48,7 +48,7 @@
 ### 🐍 Python Projects
 - A collection of Python projects exploring different concepts and libraries.
 - **Tech:** Python, NumPy, Matplotlib
-- [🔗 View Project](https://github.com/JuanesVM8/proyectos-python)
+- [🔗 View Project](https://github.com/JuanesVM8/Talleres-Python-2023)
 
 ---
 
