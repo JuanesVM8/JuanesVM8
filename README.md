@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan Esteban Velez</h1>
 
 - 🌱 I am a Systems Engineering student passionate about technology and software development.💻
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
+- 📫 Feel free to reach me out **juanes1200@hotmail.com**
 - 
 
 ---
