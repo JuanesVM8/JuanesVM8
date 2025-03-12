@@ -35,8 +35,8 @@
 ## 📌 Featured Projects
 
 ### 🔐 Encriptador
-- A tool to encrypt and decrypt messages with various ciphers.
-- **Tech:** Python, Tkinter
+- A tool to encrypt and decrypt messages.
+- **Languages:** javascript
 - [🔗 View Project](https://github.com/JuanesVM8/encriptador)
 
 ### 🚀 Misión TIC
