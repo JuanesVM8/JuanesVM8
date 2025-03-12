@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Esteban Velez</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JuanesVM8&label=Profile%20views&color=0e75b6&style=flat" alt="JuanesVM8" /> </p>
-
 🌱 I am a Systems Engineering student passionate about technology and software development.
 
 ---
