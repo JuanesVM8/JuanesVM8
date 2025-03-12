@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Juan Esteban Velez</h1>
 
-🌱 I am a Systems Engineering student passionate about technology and software development.💻
+- 🌱 I am a Systems Engineering student passionate about technology and software development.💻
+- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
+- 
 
 ---
 <p align="rigth">
@@ -15,6 +17,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=discord,=14"/>
 </p>
 
 ### Tools & Frameworks:
