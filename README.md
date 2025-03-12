@@ -5,9 +5,7 @@
 - 
 
 ---
-<p align="rigth">
-  <img src="https://github.com/JuanesVM8/Emojis/blob/main/assets/dev_animado.gif?raw=true" alt="Coding" width="250">
-</p>
+  <img align="rigth" alt="Coding" width="250" src="https://github.com/JuanesVM8/Emojis/blob/main/assets/dev_animado.gif?raw=true" >
 
 ##🚀 TECH STACK
 
