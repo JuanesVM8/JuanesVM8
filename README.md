@@ -4,8 +4,6 @@
 
 🌱 I am a Systems Engineering student passionate about technology and software development.
 
-<img align="right" alt="Coding" width="320" src="https://github.com/JuanesVM8/Emojis/blob/main/assets/dev_animado.gif?raw=true">
-
 ---
 
 ## 🚀 Tech Stack
@@ -19,6 +17,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 </p>
 
+<p align="center">
+  <img src="https://github.com/JuanesVM8/Emojis/blob/main/assets/dev_animado.gif?raw=true" alt="Coding" width="250">
+</p>
+
 ### Tools & Frameworks:
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
@@ -29,6 +31,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
 </p>
+
 
 ---
 
