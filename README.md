@@ -8,7 +8,8 @@
 <p align="rigth">
   <img src="https://github.com/JuanesVM8/Emojis/blob/main/assets/dev_animado.gif?raw=true" alt="Coding" width="250">
 </p>
-## 🚀 Tech Stack
+
+##🚀 TECH STACK
 
 ### Languages:
 <p align="left">
