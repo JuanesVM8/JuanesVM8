@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Juan Esteban Velez</h1>
 
-🌱 I am a Systems Engineering student passionate about technology and software development.
+🌱 I am a Systems Engineering student passionate about technology and software development.💻
 
 ---
 <p align="rigth">
