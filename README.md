@@ -63,6 +63,6 @@
 ## 📫 Contact Me
 <p align="left">
   <a href="https://discord.com/users/TU_ID_DISCORD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
-  <a href="https://wa.me/+57 3205741905" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="30" width="40" /></a>
+  <a href="https://wa.me/+573205741905" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="30" width="40" /></a>
 </p>
 
