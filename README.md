@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan Esteban Velez</h1>
 
 - 🌱 I am a Systems Engineering student passionate about technology and software development.💻
-- 📫 Feel free to reach me out **juan.velezaz@amigo.edu.co** or**juanes1200@hotmail.com**
+- 📫 Feel free to reach me out **juan.velezaz@amigo.edu.co** or **juanes1200@hotmail.com**
 ---
 <img align="right" alt="Coding" width="300" src="https://github.com/JuanesVM8/Emojis/blob/main/assets/dev_animado.gif?raw=true" >
 
