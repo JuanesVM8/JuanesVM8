@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Juan Esteban Vélez</h1>
 
-- 🌱 Systems Engineering student passionate about technology and software development 💻  
-- 📫 Feel free to reach out to me: juan.velezaz@amigo.edu.co | juanes1200@hotmail.com  
+<p align="center">
+Systems Engineering student focused on software development, backend systems, and applied cybersecurity.
+</p>
+
+- 🌱 Currently strengthening skills in backend, data processing, and AI  
+- 📫 Contact: juan.velezaz@amigo.edu.co | juanes1200@hotmail.com  
 
 ---
 
@@ -9,7 +13,7 @@
 
 ## 🚀 TECH STACK
 
-### Languages:
+### Languages
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
@@ -18,7 +22,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
 </p>
 
-### Tools & Frameworks:
+### Tools & Frameworks
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
@@ -34,27 +38,36 @@
 
 ---
 
-## 📌 Featured Projects
+## 📌 FEATURED PROJECTS
 
-### 🔐 Encriptador
-- Text encryption and decryption tool using JavaScript.
-- **Tech:** JavaScript, Web Crypto API  
-- 🔗 https://github.com/JuanesVM8/encriptador
+### 🔐 Encriptador de Texto
+- Tool for secure text encryption and decryption.
+- Implements cryptographic logic using Web Crypto API (AES-based approach).
+- **Tech:** JavaScript, Cryptography  
+- 🔗 https://github.com/JuanesVM8/encriptador  
 
 ### 🚀 Misión TIC
 - Repository with exercises and projects from the Misión TIC program.
+- Covers programming fundamentals and problem-solving.
 - **Tech:** Python, Java, JavaScript  
-- 🔗 https://github.com/JuanesVM8/MIN-TIC-2022
+- 🔗 https://github.com/JuanesVM8/MIN-TIC-2022  
 
 ### 🐍 Python Projects
-- Collection of Python projects exploring data analysis and modeling.
+- Collection of projects focused on data analysis and modeling.
+- Includes numerical computation and visualization.
 - **Tech:** Python, NumPy, Matplotlib  
-- 🔗 https://github.com/JuanesVM8/Talleres-Python-2023
+- 🔗 https://github.com/JuanesVM8/Talleres-Python-2023  
 
 ---
 
-## 📊 GitHub Stats
+<br><br><br>
+
+## 📊 GITHUB STATS
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanesVM8&layout=compact&theme=dark&hide=jupyter%20notebook&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JuanesVM8&show_icons=true&theme=dark&cache_seconds=1800" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanesVM8&layout=compact&theme=dark&hide=jupyter%20notebook&langs_count=6" />
 </p>
