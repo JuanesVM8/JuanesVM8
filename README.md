@@ -56,5 +56,5 @@
 ## 📊 GitHub Stats
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JuanesVM8&show_icons=true&theme=dark&layout=compact&hide=jupyter%20notebook" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanesVM8&layout=compact&theme=dark&hide=jupyter%20notebook&langs_count=6" />
 </p>
