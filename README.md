@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Juan Esteban Vélez</h1>
 
 <p align="center">
-Systems Engineering student focused on software development, backend systems, and applied cybersecurity.
+Systems Engineering student focused on backend development, data processing, and applied cybersecurity.
 </p>
 
-- 🌱 Currently strengthening skills in backend, data processing, and AI  
+- 🌱 Currently strengthening skills in backend systems, AI, and data analysis  
 - 📫 Contact: juan.velezaz@amigo.edu.co | juanes1200@hotmail.com  
 
 ---
@@ -60,12 +60,18 @@ Systems Engineering student focused on software development, backend systems, an
 
 ---
 
-<br><br><br>
+## 📌 CURRENT FOCUS
 
-## 📊 GITHUB STATS
+- 🔐 Developing secure applications (encryption, data protection)
+- ⚙️ Backend development with Node.js and databases
+- 📊 Data analysis and modeling with Python
+- ☁️ Exploring Big Data and cloud technologies (AWS, Hadoop)
 
-## 📊 GITHUB ACTIVITY
+---
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=JuanesVM8&theme=dark&hide_border=true" />
-</p>
+## 📈 EXPERIENCE HIGHLIGHTS
+
+- Developed a text encryption tool using cryptographic approaches (AES, Web Crypto API)
+- Experience handling and processing structured data (SQL, Python)
+- Background in system design and software development practices
+- Knowledge in cybersecurity fundamentals and data protection
