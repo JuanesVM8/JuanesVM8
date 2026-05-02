@@ -64,10 +64,8 @@ Systems Engineering student focused on software development, backend systems, an
 
 ## 📊 GITHUB STATS
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanesVM8&show_icons=true&theme=dark&cache_seconds=1800" />
-</p>
+## 📊 GITHUB ACTIVITY
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanesVM8&layout=compact&theme=dark&hide=jupyter%20notebook&langs_count=6" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=JuanesVM8&theme=dark&hide_border=true" />
 </p>
